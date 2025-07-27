@@ -1,8 +1,0 @@
-# k8s/configmap.yaml
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: app-config
-data:
-  CONFIG_VALUE: "This is config from ConfigMap"
-
